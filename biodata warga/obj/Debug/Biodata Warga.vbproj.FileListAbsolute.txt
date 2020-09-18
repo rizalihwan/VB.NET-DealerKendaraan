@@ -1,0 +1,40 @@
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\bin\Debug\Biodata Warga.exe.config
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\bin\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\bin\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\bin\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata_Warga.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata_Warga.Form2.resources
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata_Warga.Form3.resources
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata_Warga.Form4.resources
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata_Warga.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata Warga.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Biodata Warga\Biodata Warga\obj\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\bin\Debug\Biodata Warga.exe.config
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\bin\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\bin\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\bin\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata_Warga.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata_Warga.Form2.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata_Warga.Form3.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata_Warga.Form4.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata_Warga.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Perusahaan Mobil\Biodata Warga\obj\Debug\Biodata Warga.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\bin\Debug\Biodata Warga.exe.config
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\bin\Debug\Biodata Warga.exe
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\bin\Debug\Biodata Warga.pdb
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\bin\Debug\Biodata Warga.xml
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata_Warga.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata_Warga.Form2.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata_Warga.Form3.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata_Warga.Form4.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata_Warga.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata Warga.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Visual Basic(VB)\Dealer Kendaraan\Biodata Warga\obj\Debug\Biodata Warga.vbprojResolveAssemblyReference.cache
